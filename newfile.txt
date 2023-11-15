@@ -1,0 +1,6 @@
+this is a text file in the pull request branch
+
+
+
+
+this is the second change in the newfile.txt
